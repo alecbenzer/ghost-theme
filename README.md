@@ -1,10 +1,4 @@
-# Casper
+# alecb's Ghost theme
 
-The default theme for [Ghost](http://github.com/tryghost/ghost/).
-
-To download, visit the [releases](https://github.com/TryGhost/Casper/releases) page.
-
-## Copyright & License
-
-Copyright (c) 2013-2017 Ghost Foundation - Released under the [MIT license](LICENSE).
-
+A minimalist [Ghost](http://github.com/tryghost/ghost/) theme based on the
+[default theme](https://github.com/TryGhost/Casper/).
